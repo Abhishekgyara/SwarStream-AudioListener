@@ -4,7 +4,6 @@ __pycache__/
 venv/
 .env
 
-downloads/
 
 ffmpeg-8.1.1-essentials_build/
 
