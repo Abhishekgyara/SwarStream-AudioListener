@@ -1,0 +1,2 @@
+DOWNLOAD_FOLDER = "downloads"
+MAX_RESULTS = 10
